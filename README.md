@@ -55,7 +55,10 @@ This mimics real-world data pipelines used in AI/LLM systems.
 
 ## 📸 Screenshots
 
-(Add your dashboard screenshots here after deployment)
+<img width="1905" height="873" alt="image" src="https://github.com/user-attachments/assets/813f901a-9cba-4da0-805e-f2b9937185af" />
+<img width="1525" height="906" alt="image" src="https://github.com/user-attachments/assets/8e43f47f-9dad-4f4f-8e5f-07304b520c8c" />
+<img width="1535" height="799" alt="image" src="https://github.com/user-attachments/assets/a0120263-c76d-4137-b234-5afcdf948653" />
+
 
 ---
 
@@ -70,7 +73,7 @@ python -m streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Will be added after deployment)
+https://mess-food-analytics-sambuild.streamlit.app/
 
 ---
 
