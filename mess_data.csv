@@ -1,0 +1,316 @@
+Day,Meal,Food,Category,Taste,Hygiene,Variety,Overall
+Monday,Breakfast,Idli,Veg,3,2,2,2
+Monday,Breakfast,Idli,Veg,4,2,3,3
+Monday,Breakfast,Idli,Veg,4,3,4,4
+Monday,Breakfast,Idli,Veg,4,4,4,4
+Monday,Breakfast,Idli,Veg,4,2,2,3
+Monday,Breakfast,Idli,Veg,4,3,5,4
+Monday,Breakfast,Idli,Veg,3,3,5,4
+Monday,Breakfast,Idli,Veg,3,3,5,4
+Monday,Breakfast,Idli,Veg,4,2,4,3
+Monday,Breakfast,Idli,Veg,3,2,4,3
+Monday,Breakfast,Idli,Veg,5,4,3,4
+Monday,Breakfast,Idli,Veg,4,4,5,4
+Monday,Breakfast,Idli,Veg,5,2,2,3
+Monday,Breakfast,Idli,Veg,3,2,4,3
+Monday,Breakfast,Idli,Veg,4,4,2,3
+Monday,Lunch,Aloo Mutter,Veg,4,3,4,4
+Monday,Lunch,Aloo Mutter,Veg,5,3,5,4
+Monday,Lunch,Aloo Mutter,Veg,4,3,5,4
+Monday,Lunch,Aloo Mutter,Veg,5,4,3,4
+Monday,Lunch,Aloo Mutter,Veg,3,4,2,3
+Monday,Lunch,Aloo Mutter,Veg,3,2,5,3
+Monday,Lunch,Aloo Mutter,Veg,4,4,5,4
+Monday,Lunch,Aloo Mutter,Veg,3,5,4,4
+Monday,Lunch,Aloo Mutter,Veg,3,3,5,4
+Monday,Lunch,Aloo Mutter,Veg,4,4,5,4
+Monday,Lunch,Aloo Mutter,Veg,4,2,4,3
+Monday,Lunch,Aloo Mutter,Veg,5,3,4,4
+Monday,Lunch,Aloo Mutter,Veg,5,3,2,3
+Monday,Lunch,Aloo Mutter,Veg,3,5,2,3
+Monday,Lunch,Aloo Mutter,Veg,5,4,3,4
+Monday,Dinner,Kadhai Mix Veg,Veg,3,3,4,3
+Monday,Dinner,Kadhai Mix Veg,Veg,3,2,3,3
+Monday,Dinner,Kadhai Mix Veg,Veg,2,2,3,2
+Monday,Dinner,Kadhai Mix Veg,Veg,2,3,4,3
+Monday,Dinner,Kadhai Mix Veg,Veg,3,5,2,3
+Monday,Dinner,Kadhai Mix Veg,Veg,4,2,5,4
+Monday,Dinner,Kadhai Mix Veg,Veg,3,4,2,3
+Monday,Dinner,Kadhai Mix Veg,Veg,2,3,3,3
+Monday,Dinner,Kadhai Mix Veg,Veg,3,2,5,3
+Monday,Dinner,Kadhai Mix Veg,Veg,2,3,2,2
+Monday,Dinner,Kadhai Mix Veg,Veg,2,4,4,3
+Monday,Dinner,Kadhai Mix Veg,Veg,2,2,4,3
+Monday,Dinner,Kadhai Mix Veg,Veg,3,2,2,2
+Monday,Dinner,Kadhai Mix Veg,Veg,2,3,3,3
+Monday,Dinner,Kadhai Mix Veg,Veg,4,4,5,4
+Tuesday,Breakfast,Poha,Veg,5,5,3,4
+Tuesday,Breakfast,Poha,Veg,3,3,2,3
+Tuesday,Breakfast,Poha,Veg,4,3,5,4
+Tuesday,Breakfast,Poha,Veg,4,3,2,3
+Tuesday,Breakfast,Poha,Veg,5,5,2,4
+Tuesday,Breakfast,Poha,Veg,4,4,5,4
+Tuesday,Breakfast,Poha,Veg,5,2,5,4
+Tuesday,Breakfast,Poha,Veg,4,5,3,4
+Tuesday,Breakfast,Poha,Veg,3,4,3,3
+Tuesday,Breakfast,Poha,Veg,4,2,3,3
+Tuesday,Breakfast,Poha,Veg,5,3,4,4
+Tuesday,Breakfast,Poha,Veg,3,5,2,3
+Tuesday,Breakfast,Poha,Veg,4,5,2,4
+Tuesday,Breakfast,Poha,Veg,5,5,5,5
+Tuesday,Breakfast,Poha,Veg,5,2,5,4
+Tuesday,Lunch,White Chana,Veg,3,5,5,4
+Tuesday,Lunch,White Chana,Veg,3,5,3,4
+Tuesday,Lunch,White Chana,Veg,4,2,3,3
+Tuesday,Lunch,White Chana,Veg,4,4,5,4
+Tuesday,Lunch,White Chana,Veg,3,5,5,4
+Tuesday,Lunch,White Chana,Veg,4,3,3,3
+Tuesday,Lunch,White Chana,Veg,5,4,3,4
+Tuesday,Lunch,White Chana,Veg,3,2,5,3
+Tuesday,Lunch,White Chana,Veg,4,3,4,4
+Tuesday,Lunch,White Chana,Veg,4,2,2,3
+Tuesday,Lunch,White Chana,Veg,3,3,5,4
+Tuesday,Lunch,White Chana,Veg,4,2,2,3
+Tuesday,Lunch,White Chana,Veg,5,4,2,4
+Tuesday,Lunch,White Chana,Veg,4,2,2,3
+Tuesday,Lunch,White Chana,Veg,4,5,2,4
+Tuesday,Dinner,Paneer Masala,Veg,4,5,5,5
+Tuesday,Dinner,Paneer Masala,Veg,3,2,3,3
+Tuesday,Dinner,Paneer Masala,Veg,4,4,4,4
+Tuesday,Dinner,Paneer Masala,Veg,2,2,3,2
+Tuesday,Dinner,Paneer Masala,Veg,3,4,2,3
+Tuesday,Dinner,Paneer Masala,Veg,3,2,2,2
+Tuesday,Dinner,Paneer Masala,Veg,3,3,2,3
+Tuesday,Dinner,Paneer Masala,Veg,3,2,3,3
+Tuesday,Dinner,Paneer Masala,Veg,2,5,3,3
+Tuesday,Dinner,Paneer Masala,Veg,2,3,5,3
+Tuesday,Dinner,Paneer Masala,Veg,3,2,4,3
+Tuesday,Dinner,Paneer Masala,Veg,2,3,5,3
+Tuesday,Dinner,Paneer Masala,Veg,3,5,5,4
+Tuesday,Dinner,Paneer Masala,Veg,4,4,2,3
+Tuesday,Dinner,Paneer Masala,Veg,3,2,2,2
+Wednesday,Breakfast,Upma,Veg,5,2,5,4
+Wednesday,Breakfast,Upma,Veg,3,2,3,3
+Wednesday,Breakfast,Upma,Veg,4,2,3,3
+Wednesday,Breakfast,Upma,Veg,4,3,4,4
+Wednesday,Breakfast,Upma,Veg,4,2,5,4
+Wednesday,Breakfast,Upma,Veg,4,5,4,4
+Wednesday,Breakfast,Upma,Veg,5,4,2,4
+Wednesday,Breakfast,Upma,Veg,3,4,4,4
+Wednesday,Breakfast,Upma,Veg,5,5,5,5
+Wednesday,Breakfast,Upma,Veg,4,2,5,4
+Wednesday,Breakfast,Upma,Veg,3,2,5,3
+Wednesday,Breakfast,Upma,Veg,4,2,5,4
+Wednesday,Breakfast,Upma,Veg,4,5,2,4
+Wednesday,Breakfast,Upma,Veg,4,4,2,3
+Wednesday,Breakfast,Upma,Veg,4,5,4,4
+Wednesday,Lunch,Dal Tadka,Veg,3,5,4,4
+Wednesday,Lunch,Dal Tadka,Veg,3,4,3,3
+Wednesday,Lunch,Dal Tadka,Veg,4,3,5,4
+Wednesday,Lunch,Dal Tadka,Veg,4,5,4,4
+Wednesday,Lunch,Dal Tadka,Veg,5,5,2,4
+Wednesday,Lunch,Dal Tadka,Veg,3,4,4,4
+Wednesday,Lunch,Dal Tadka,Veg,4,2,3,3
+Wednesday,Lunch,Dal Tadka,Veg,3,5,5,4
+Wednesday,Lunch,Dal Tadka,Veg,4,3,3,3
+Wednesday,Lunch,Dal Tadka,Veg,5,5,3,4
+Wednesday,Lunch,Dal Tadka,Veg,4,3,2,3
+Wednesday,Lunch,Dal Tadka,Veg,4,3,3,3
+Wednesday,Lunch,Dal Tadka,Veg,4,3,4,4
+Wednesday,Lunch,Dal Tadka,Veg,4,5,5,5
+Wednesday,Lunch,Dal Tadka,Veg,3,3,4,3
+Wednesday,Dinner,Egg Curry,Non-Veg,2,2,5,3
+Wednesday,Dinner,Egg Curry,Non-Veg,3,5,5,4
+Wednesday,Dinner,Egg Curry,Non-Veg,3,4,3,3
+Wednesday,Dinner,Egg Curry,Non-Veg,3,2,4,3
+Wednesday,Dinner,Egg Curry,Non-Veg,3,3,2,3
+Wednesday,Dinner,Egg Curry,Non-Veg,3,2,3,3
+Wednesday,Dinner,Egg Curry,Non-Veg,4,4,5,4
+Wednesday,Dinner,Egg Curry,Non-Veg,4,4,2,3
+Wednesday,Dinner,Egg Curry,Non-Veg,3,5,3,4
+Wednesday,Dinner,Egg Curry,Non-Veg,3,3,2,3
+Wednesday,Dinner,Egg Curry,Non-Veg,4,4,4,4
+Wednesday,Dinner,Egg Curry,Non-Veg,4,4,4,4
+Wednesday,Dinner,Egg Curry,Non-Veg,4,5,5,5
+Wednesday,Dinner,Egg Curry,Non-Veg,3,4,5,4
+Wednesday,Dinner,Egg Curry,Non-Veg,2,3,2,2
+Thursday,Breakfast,Paratha,Veg,4,2,3,3
+Thursday,Breakfast,Paratha,Veg,4,2,3,3
+Thursday,Breakfast,Paratha,Veg,4,2,3,3
+Thursday,Breakfast,Paratha,Veg,4,3,2,3
+Thursday,Breakfast,Paratha,Veg,4,3,5,4
+Thursday,Breakfast,Paratha,Veg,3,5,4,4
+Thursday,Breakfast,Paratha,Veg,4,2,3,3
+Thursday,Breakfast,Paratha,Veg,4,5,4,4
+Thursday,Breakfast,Paratha,Veg,4,4,4,4
+Thursday,Breakfast,Paratha,Veg,4,4,4,4
+Thursday,Breakfast,Paratha,Veg,5,4,2,4
+Thursday,Breakfast,Paratha,Veg,3,3,5,4
+Thursday,Breakfast,Paratha,Veg,3,2,2,2
+Thursday,Breakfast,Paratha,Veg,3,4,2,3
+Thursday,Breakfast,Paratha,Veg,5,2,3,3
+Thursday,Lunch,Rajma Rice,Veg,3,4,3,3
+Thursday,Lunch,Rajma Rice,Veg,5,3,3,4
+Thursday,Lunch,Rajma Rice,Veg,4,3,4,4
+Thursday,Lunch,Rajma Rice,Veg,4,2,3,3
+Thursday,Lunch,Rajma Rice,Veg,4,3,3,3
+Thursday,Lunch,Rajma Rice,Veg,4,5,2,4
+Thursday,Lunch,Rajma Rice,Veg,4,2,5,4
+Thursday,Lunch,Rajma Rice,Veg,4,2,3,3
+Thursday,Lunch,Rajma Rice,Veg,4,2,4,3
+Thursday,Lunch,Rajma Rice,Veg,4,4,2,3
+Thursday,Lunch,Rajma Rice,Veg,3,2,3,3
+Thursday,Lunch,Rajma Rice,Veg,5,5,4,5
+Thursday,Lunch,Rajma Rice,Veg,3,2,4,3
+Thursday,Lunch,Rajma Rice,Veg,4,4,2,3
+Thursday,Lunch,Rajma Rice,Veg,4,5,4,4
+Thursday,Dinner,Chicken Curry,Non-Veg,3,5,4,4
+Thursday,Dinner,Chicken Curry,Non-Veg,3,5,3,4
+Thursday,Dinner,Chicken Curry,Non-Veg,4,5,3,4
+Thursday,Dinner,Chicken Curry,Non-Veg,2,2,2,2
+Thursday,Dinner,Chicken Curry,Non-Veg,3,2,4,3
+Thursday,Dinner,Chicken Curry,Non-Veg,3,4,2,3
+Thursday,Dinner,Chicken Curry,Non-Veg,3,2,5,3
+Thursday,Dinner,Chicken Curry,Non-Veg,3,3,5,4
+Thursday,Dinner,Chicken Curry,Non-Veg,2,2,3,2
+Thursday,Dinner,Chicken Curry,Non-Veg,4,4,5,4
+Thursday,Dinner,Chicken Curry,Non-Veg,2,2,5,3
+Thursday,Dinner,Chicken Curry,Non-Veg,2,2,5,3
+Thursday,Dinner,Chicken Curry,Non-Veg,2,3,3,3
+Thursday,Dinner,Chicken Curry,Non-Veg,2,4,3,3
+Thursday,Dinner,Chicken Curry,Non-Veg,3,3,5,4
+Friday,Breakfast,Dalia,Veg,5,3,5,4
+Friday,Breakfast,Dalia,Veg,4,4,2,3
+Friday,Breakfast,Dalia,Veg,3,4,5,4
+Friday,Breakfast,Dalia,Veg,3,2,5,3
+Friday,Breakfast,Dalia,Veg,4,5,5,5
+Friday,Breakfast,Dalia,Veg,3,5,3,4
+Friday,Breakfast,Dalia,Veg,4,4,4,4
+Friday,Breakfast,Dalia,Veg,4,5,5,5
+Friday,Breakfast,Dalia,Veg,3,4,2,3
+Friday,Breakfast,Dalia,Veg,4,5,3,4
+Friday,Breakfast,Dalia,Veg,3,2,5,3
+Friday,Breakfast,Dalia,Veg,4,4,2,3
+Friday,Breakfast,Dalia,Veg,4,3,5,4
+Friday,Breakfast,Dalia,Veg,3,5,3,4
+Friday,Breakfast,Dalia,Veg,4,5,4,4
+Friday,Lunch,Dal Fry,Veg,5,4,2,4
+Friday,Lunch,Dal Fry,Veg,3,5,3,4
+Friday,Lunch,Dal Fry,Veg,4,5,4,4
+Friday,Lunch,Dal Fry,Veg,3,2,2,2
+Friday,Lunch,Dal Fry,Veg,5,2,3,3
+Friday,Lunch,Dal Fry,Veg,5,4,2,4
+Friday,Lunch,Dal Fry,Veg,5,2,3,3
+Friday,Lunch,Dal Fry,Veg,3,3,3,3
+Friday,Lunch,Dal Fry,Veg,3,4,4,4
+Friday,Lunch,Dal Fry,Veg,4,5,2,4
+Friday,Lunch,Dal Fry,Veg,5,3,2,3
+Friday,Lunch,Dal Fry,Veg,4,5,5,5
+Friday,Lunch,Dal Fry,Veg,4,2,5,4
+Friday,Lunch,Dal Fry,Veg,4,5,2,4
+Friday,Lunch,Dal Fry,Veg,4,2,5,4
+Friday,Dinner,Mix Veg,Veg,3,4,2,3
+Friday,Dinner,Mix Veg,Veg,2,3,3,3
+Friday,Dinner,Mix Veg,Veg,4,3,4,4
+Friday,Dinner,Mix Veg,Veg,3,4,4,4
+Friday,Dinner,Mix Veg,Veg,2,3,3,3
+Friday,Dinner,Mix Veg,Veg,4,2,4,3
+Friday,Dinner,Mix Veg,Veg,3,3,4,3
+Friday,Dinner,Mix Veg,Veg,2,5,5,4
+Friday,Dinner,Mix Veg,Veg,3,5,3,4
+Friday,Dinner,Mix Veg,Veg,2,5,3,3
+Friday,Dinner,Mix Veg,Veg,3,4,4,4
+Friday,Dinner,Mix Veg,Veg,4,3,2,3
+Friday,Dinner,Mix Veg,Veg,2,5,3,3
+Friday,Dinner,Mix Veg,Veg,3,2,4,3
+Friday,Dinner,Mix Veg,Veg,3,5,5,4
+Saturday,Breakfast,Upma,Veg,5,4,5,5
+Saturday,Breakfast,Upma,Veg,3,2,2,2
+Saturday,Breakfast,Upma,Veg,5,2,4,4
+Saturday,Breakfast,Upma,Veg,4,2,2,3
+Saturday,Breakfast,Upma,Veg,4,3,4,4
+Saturday,Breakfast,Upma,Veg,4,5,2,4
+Saturday,Breakfast,Upma,Veg,3,4,5,4
+Saturday,Breakfast,Upma,Veg,3,4,5,4
+Saturday,Breakfast,Upma,Veg,4,2,4,3
+Saturday,Breakfast,Upma,Veg,3,3,4,3
+Saturday,Breakfast,Upma,Veg,4,2,3,3
+Saturday,Breakfast,Upma,Veg,4,4,4,4
+Saturday,Breakfast,Upma,Veg,4,3,3,3
+Saturday,Breakfast,Upma,Veg,4,2,2,3
+Saturday,Breakfast,Upma,Veg,3,2,3,3
+Saturday,Lunch,Ghee Rice,Veg,4,2,2,3
+Saturday,Lunch,Ghee Rice,Veg,4,2,5,4
+Saturday,Lunch,Ghee Rice,Veg,4,4,5,4
+Saturday,Lunch,Ghee Rice,Veg,4,4,4,4
+Saturday,Lunch,Ghee Rice,Veg,4,4,4,4
+Saturday,Lunch,Ghee Rice,Veg,4,2,4,3
+Saturday,Lunch,Ghee Rice,Veg,3,5,3,4
+Saturday,Lunch,Ghee Rice,Veg,5,5,4,5
+Saturday,Lunch,Ghee Rice,Veg,3,3,2,3
+Saturday,Lunch,Ghee Rice,Veg,4,3,3,3
+Saturday,Lunch,Ghee Rice,Veg,5,3,2,3
+Saturday,Lunch,Ghee Rice,Veg,3,5,5,4
+Saturday,Lunch,Ghee Rice,Veg,5,2,2,3
+Saturday,Lunch,Ghee Rice,Veg,5,4,2,4
+Saturday,Lunch,Ghee Rice,Veg,3,4,2,3
+Saturday,Dinner,Veg Pulao,Veg,3,4,4,4
+Saturday,Dinner,Veg Pulao,Veg,3,4,3,3
+Saturday,Dinner,Veg Pulao,Veg,3,3,3,3
+Saturday,Dinner,Veg Pulao,Veg,3,4,4,4
+Saturday,Dinner,Veg Pulao,Veg,4,5,2,4
+Saturday,Dinner,Veg Pulao,Veg,3,2,5,3
+Saturday,Dinner,Veg Pulao,Veg,2,3,4,3
+Saturday,Dinner,Veg Pulao,Veg,2,4,2,3
+Saturday,Dinner,Veg Pulao,Veg,3,3,2,3
+Saturday,Dinner,Veg Pulao,Veg,2,2,3,2
+Saturday,Dinner,Veg Pulao,Veg,2,2,4,3
+Saturday,Dinner,Veg Pulao,Veg,2,2,4,3
+Saturday,Dinner,Veg Pulao,Veg,3,3,5,4
+Saturday,Dinner,Veg Pulao,Veg,3,4,3,3
+Saturday,Dinner,Veg Pulao,Veg,4,3,4,4
+Sunday,Breakfast,Uttapam,Veg,4,4,3,4
+Sunday,Breakfast,Uttapam,Veg,4,2,3,3
+Sunday,Breakfast,Uttapam,Veg,3,5,3,4
+Sunday,Breakfast,Uttapam,Veg,4,3,2,3
+Sunday,Breakfast,Uttapam,Veg,5,2,4,4
+Sunday,Breakfast,Uttapam,Veg,4,2,4,3
+Sunday,Breakfast,Uttapam,Veg,3,3,3,3
+Sunday,Breakfast,Uttapam,Veg,3,5,3,4
+Sunday,Breakfast,Uttapam,Veg,4,5,3,4
+Sunday,Breakfast,Uttapam,Veg,4,4,4,4
+Sunday,Breakfast,Uttapam,Veg,4,3,4,4
+Sunday,Breakfast,Uttapam,Veg,3,5,5,4
+Sunday,Breakfast,Uttapam,Veg,4,3,3,3
+Sunday,Breakfast,Uttapam,Veg,4,4,2,3
+Sunday,Breakfast,Uttapam,Veg,3,4,5,4
+Sunday,Lunch,Veg Biryani,Veg,5,5,3,4
+Sunday,Lunch,Veg Biryani,Veg,3,4,2,3
+Sunday,Lunch,Veg Biryani,Veg,5,4,4,4
+Sunday,Lunch,Veg Biryani,Veg,4,4,3,4
+Sunday,Lunch,Veg Biryani,Veg,5,3,2,3
+Sunday,Lunch,Veg Biryani,Veg,4,5,5,5
+Sunday,Lunch,Veg Biryani,Veg,4,2,4,3
+Sunday,Lunch,Veg Biryani,Veg,4,3,3,3
+Sunday,Lunch,Veg Biryani,Veg,4,2,2,3
+Sunday,Lunch,Veg Biryani,Veg,3,2,3,3
+Sunday,Lunch,Veg Biryani,Veg,5,2,3,3
+Sunday,Lunch,Veg Biryani,Veg,3,5,5,4
+Sunday,Lunch,Veg Biryani,Veg,5,5,3,4
+Sunday,Lunch,Veg Biryani,Veg,4,5,4,4
+Sunday,Lunch,Veg Biryani,Veg,4,3,5,4
+Sunday,Dinner,Aloo Masala,Veg,4,2,3,3
+Sunday,Dinner,Aloo Masala,Veg,3,5,5,4
+Sunday,Dinner,Aloo Masala,Veg,3,4,2,3
+Sunday,Dinner,Aloo Masala,Veg,3,2,4,3
+Sunday,Dinner,Aloo Masala,Veg,3,5,2,3
+Sunday,Dinner,Aloo Masala,Veg,4,5,3,4
+Sunday,Dinner,Aloo Masala,Veg,3,4,3,3
+Sunday,Dinner,Aloo Masala,Veg,4,5,5,5
+Sunday,Dinner,Aloo Masala,Veg,3,3,2,3
+Sunday,Dinner,Aloo Masala,Veg,3,2,4,3
+Sunday,Dinner,Aloo Masala,Veg,3,5,3,4
+Sunday,Dinner,Aloo Masala,Veg,3,3,3,3
+Sunday,Dinner,Aloo Masala,Veg,2,4,4,3
+Sunday,Dinner,Aloo Masala,Veg,3,2,3,3
+Sunday,Dinner,Aloo Masala,Veg,3,3,3,3
